@@ -1,4 +1,4 @@
-#This is my first SVM classifier. It is quite simple, using predefined datasets.
+#This is my first SVM classifier. It is quite simple, using predefined datasets. 
 
 #import necessary packages
 from sklearn import svm
