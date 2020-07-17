@@ -1,2 +1,2 @@
 # Machine_learning
-Random machine learning python code
+My machine learning projects
